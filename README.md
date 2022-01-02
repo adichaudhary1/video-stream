@@ -5,18 +5,18 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/S780821/video-stream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/adichaudhary1/video-stream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/S780821/video-stream/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/S780821/video-stream"> <img src="https://img.shields.io/github/repo-size/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/commits/main"> <img src="https://img.shields.io/github/last-commit/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/issues"> <img src="https://img.shields.io/github/issues/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/network/members"> <img src="https://img.shields.io/github/forks/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/S780821/video-stream/network/members"> <img src="https://img.shields.io/github/stars/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/adichaudhary1/video-stream"> <img src="https://img.shields.io/github/repo-size/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/adichaudhary1/video-stream/commits/main"> <img src="https://img.shields.io/github/last-commit/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/adichaudhary1/video-stream/issues"> <img src="https://img.shields.io/github/issues/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/adichaudhary1/video-stream/network/members"> <img src="https://img.shields.io/github/forks/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/adichaudhary1/video-stream/network/members"> <img src="https://img.shields.io/github/stars/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@S780821/PyrogramSession) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@adichaudhary1/PyrogramSession) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
@@ -50,11 +50,11 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adichaudhary1/video-stream)
 ## Deploy On Railway
 Fill all variables 
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/video-stream&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/adichaudhary1/video-stream&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
 
 ## VPS Deployment 📡
 
@@ -65,7 +65,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/S780821/video-stream # clone the repo.
+git clone https://github.com/adichaudhary1/video-stream # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
