@@ -1,5 +1,5 @@
-<p align="center"><a href="https://t.me/XMARTY_VC_PLAYER_BOT">
-    <img src="https://telegra.ph/file/51452e860abb8e7ad6890.jpg"></a></p>
+<p align="center"><a href="https://t.me/Music_CE_Bot">
+    <img src="https://telegra.ph/file/27930300e0fd814512849.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
